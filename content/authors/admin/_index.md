@@ -39,6 +39,14 @@ profiles:
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
   # - icon: academicons/orcid
   #   url: https://orcid.org/
+
+
+
+interests:
+  - Open Science
+  - Geoinformatics and Remote Sensing
+  - Information Retrieval and Management
+  
 # Social network links
 
 # Awards.
