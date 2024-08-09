@@ -25,7 +25,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
-          filename: sun-tornado.svg
+          filename: sun-tornado-2.svg
           # filename: subtle-prism.svg
           filters:
             brightness: 1.0
