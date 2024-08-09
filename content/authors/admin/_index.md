@@ -43,7 +43,7 @@ profiles:
 interests:
   - Open Science
   - Geoinformatics and Remote Sensing
-  - Information Retrieval and Management
+  - Information Retrieval & Management
 
 education:
   - area: PhD Geographic modeling anf simulation
@@ -66,7 +66,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
