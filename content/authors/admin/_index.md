@@ -52,9 +52,9 @@ education:
     date_end: 2024-06-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
 #   - area: BSc GISscience
 #     institution: Nanjing University of Information Science and Technology
 #     date_start: 2015-09-01
