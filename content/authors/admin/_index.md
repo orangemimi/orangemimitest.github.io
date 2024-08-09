@@ -10,8 +10,8 @@ first_name: Zhiyi
 last_name: Zhu
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
   # icon: 
 
 # Is this the primary user of the site?
