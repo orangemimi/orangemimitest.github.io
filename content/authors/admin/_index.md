@@ -40,14 +40,33 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-
-
 interests:
   - Open Science
   - Geoinformatics and Remote Sensing
   - Information Retrieval and Management
-  
-# Social network links
+
+education:
+  - area: PhD Geographic modeling anf simulation
+    institution: Nanjing Normal University
+    date_start: 2019-09-01
+    date_end: 2024-06-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: BSc GISscience
+    institution: Nanjing University of Information Science and Technology
+    date_start: 2015-09-01
+    date_end: 2019-06-31
+    summary: |
+      GPA: 4.2/5.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 
 # Awards.
 #   Add/remove as many awards below as you like.
