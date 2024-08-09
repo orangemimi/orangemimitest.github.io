@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhuzhiyi@njnu.edu.en'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -183,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhiyi Zhu is a Ph.D candidate of open science at the open geographic modeling and simulation lab (OpenGMS). Her interest lies in Geo-Informatics, encompassing three interconnected fields: Reproducibility, Geostatistics, and Geographical Modeling and Simulation. Over the last few years, she have refined and enriched the concept of reproducibility in geo-simulation experiments (GSEs) to address scientific challenges. This includes enhancing information sharing among researchers to promote research's reproducibility, evaluating reproducibility using both qualitative index analysis and quantitative statistical methods to increase the reliability of GSEs, and creating practical tools that allow scholars to investigate domain knowledge in GeoScience, building on the specific expertise of previous research.
