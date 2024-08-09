@@ -38,16 +38,16 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - icon: document-text  # Choose an icon that represents a document or text
+  - label: Cover Letter # Choose an icon that represents a document or text
     url: uploads/resume.pdf  # Ensure this path points to your cover letter file
-    label: Cover Letter  # This will be the text displayed on the button
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
 interests:
   - Open Science
   - Geoinformatics and Remote Sensing
-  - Information Retrieval & Management
+  - Information Retrieval and Management
+
 
 # education:
 #   - area: PhD Geographic modeling and simulation
