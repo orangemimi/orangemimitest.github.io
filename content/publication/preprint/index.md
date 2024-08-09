@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Reproducing computational processes in service-based geo-simulation experiments"
 authors:
-- admin
+- Zhu, Z., Chen, M.*, Sun, L., Qian, Z., He, Y., Ma, Z., Zhang, F., Wen, Y., Yue, S., and Lv, G.
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
