@@ -41,9 +41,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Open Science
+  - Geoinformatics and Remote Sensing
+  - Information Retrieval and Management
 
 education:
   - area: PhD Artificial Intelligence
