@@ -38,9 +38,9 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - icons:
-      custom-resume: assets/media/icons/resume.svg 
-    url: uploads/resume.pdf  # Ensure this path points to your cover letter file
+  # - icons:
+  #     custom-resume: assets/media/icons/resume.svg 
+  #   url: uploads/resume.pdf  # Ensure this path points to your cover letter file
   # - icon: academicons/orcid
   #   url: https://orcid.org/
   - button:
