@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 朱之一
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Zhiyi Zhu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Zhiyi
-last_name: Zhu
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
