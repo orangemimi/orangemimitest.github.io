@@ -10,8 +10,8 @@ first_name: Zhiyi
 last_name: Zhu
 
 # Status emoji
-# status:
-  # icon: ☕️
+status:
+  icon: ☕️
   # icon: 
 
 # Is this the primary user of the site?
@@ -25,8 +25,8 @@ role: Ph.D candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Open Geographic Modeling and Simulation (OpenGMS)
+    url: https://geomodeling.njnu.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,10 +52,10 @@ education:
     date_start: 09/2019
     date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on _Reproducbility for Geographic SImulation_. Supervised by [Prof Dr. Min Chen](https://example.com). Presented papers in more than 7 journals (2 as first author).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BSc GISscience
     institution: Nanjing University of Information Science and Technology
     date_start: 09/2015
