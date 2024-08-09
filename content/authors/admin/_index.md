@@ -38,7 +38,7 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - label: Cover Letter # Choose an icon that represents a document or text
+  - icon: assets/media/icons/resume.svg # Choose an icon that represents a document or text
     url: uploads/resume.pdf  # Ensure this path points to your cover letter file
   # - icon: academicons/orcid
   #   url: https://orcid.org/
@@ -181,4 +181,4 @@ awards:
 
 ## About Me
 
-Zhiyi Zhu is a Ph.D candidate of open science at the open geographic modeling and simulation lab (OpenGMS). Her interest lies in Geo-Informatics, encompassing three interconnected fields: Reproducibility, Geostatistics, and Geographical Modeling and Simulation. Over the last few years, she have refined and enriched the concept of reproducibility in geo-simulation experiments (GSEs) to address scientific challenges.
+Zhiyi Zhu is a Ph.D. candidate of open science at the open geographic modeling and simulation lab (OpenGMS). Her interest lies in Geo-Informatics, encompassing three interconnected fields: Reproducibility, Geostatistics, and Geographical Modeling and Simulation. Over the last few years, she have refined and enriched the concept of reproducibility in geo-simulation experiments (GSEs) to address scientific challenges.
