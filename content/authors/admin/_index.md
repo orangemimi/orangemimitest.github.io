@@ -1,9 +1,9 @@
 ---
 # Display name
-# title: Zhiyi Zhu
+title: Zhiyi Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: 朱之一
+# name_pronunciation: 朱之一
 
 # Full name (for SEO)
 first_name: Zhiyi
@@ -38,8 +38,9 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - icon: Cover letter
-    url: uploads/resume.pdf
+  - icon: document-text  # Choose an icon that represents a document or text
+    url: uploads/resume.pdf  # Ensure this path points to your cover letter file
+    label: Cover Letter  # This will be the text displayed on the button
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
