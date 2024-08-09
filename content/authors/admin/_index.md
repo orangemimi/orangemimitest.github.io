@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiyi Zhu
+# title: Zhiyi Zhu
 
 # Name pronunciation (optional)
 name_pronunciation: 朱之一
@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D candidate
+role: Ph.D. candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,7 +38,7 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - text: Cover letter
+  - icon: Cover letter
     url: uploads/resume.pdf
   # - icon: academicons/orcid
   #   url: https://orcid.org/
