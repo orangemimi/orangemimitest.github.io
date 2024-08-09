@@ -38,7 +38,7 @@ profiles:
     url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
-  - icon: CV
+  - text: Cover letter
     url: uploads/resume.pdf
   # - icon: academicons/orcid
   #   url: https://orcid.org/
