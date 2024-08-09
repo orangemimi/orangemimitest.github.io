@@ -43,6 +43,9 @@ profiles:
     url: uploads/resume.pdf  # Ensure this path points to your cover letter file
   # - icon: academicons/orcid
   #   url: https://orcid.org/
+  - utton:
+      text: Download CV
+      url: uploads/resume.pdf
 
 interests:
   - Open Science
