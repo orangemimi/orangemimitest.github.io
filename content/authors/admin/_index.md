@@ -45,27 +45,24 @@ interests:
   - Geoinformatics and Remote Sensing
   - Information Retrieval & Management
 
-education:
-  - area: PhD Geographic modeling anf simulation
-    institution: Nanjing Normal University
-    date_start: 2019-09-01
-    date_end: 2024-06-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: BSc GISscience
-    institution: Nanjing University of Information Science and Technology
-    date_start: 2015-09-01
-    date_end: 2019-06-31
-    summary: |
-      GPA: 4.2/5.0
+# education:
+#   - area: PhD Geographic modeling anf simulation
+#     institution: Nanjing Normal University
+#     date_start: 2019-09-01
+#     date_end: 2024-06-31
+#     summary: |
+#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com'
+#   - area: BSc GISscience
+#     institution: Nanjing University of Information Science and Technology
+#     date_start: 2015-09-01
+#     date_end: 2019-06-31
+#     summary: |
+#       GPA: 4.2/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -90,6 +87,49 @@ education:
 #       - Migrated infrastructure to a new data center
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
+
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
+
       
 # Awards.
 #   Add/remove as many awards below as you like.
