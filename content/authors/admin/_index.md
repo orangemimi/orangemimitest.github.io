@@ -47,7 +47,7 @@ profiles:
 interests:
   - Open Science
   - Geoinformatics and Remote Sensing
-  - Information Retrieval and Management
+  - Information Retrieval & Management
 
 # education:
 #   - area: PhD Geographic modeling and simulation
