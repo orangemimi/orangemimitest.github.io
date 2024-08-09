@@ -28,6 +28,17 @@ organizations:
   - name: Open Geographic Modeling and Simulation (OpenGMS)
     url: https://geomodeling.njnu.edu.cn
 
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:zhuzhiyi@njnu.edu.en'
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=tPxDdY8AAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Zhiyi-Zhu-5
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 # Social network links
 
 # Awards.
